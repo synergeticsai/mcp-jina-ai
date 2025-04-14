@@ -1,6 +1,6 @@
 # Jina AI MCP Server
 
-This project implements a Message Control Protocol (MCP) server integrated with Jina AI's Reader and Search APIs. It provides tools to fetch web content and perform web searches, accessible via Server-Sent Events (SSE) and a REST API.
+This project implements a Model Context Protocol (MCP) server integrated with Jina AI's Reader and Search APIs. It provides tools to fetch web content and perform web searches, accessible via Server-Sent Events (SSE) and a REST API.
 
 ## Features
 
